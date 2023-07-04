@@ -4,6 +4,12 @@ I'm a full-stack developer living in Japan.
 - 🔭 I’m currently working on [nourish](https://github.com/nourish-team) and [Omamori finder](https://github.com/Anissa3005/omamori-app/tree/main)
 - 🌱 I’m currently learning Python with Django.
 - 👯 I’m looking for open source projects I can collaborate on.
+  
+### :sparkles: About me
+In 2022 I fell in love with coding! 
+My interest in coding sparked back in 2020, but with all the crazy pandemic-related changes in my life, it took until September 2022 for me to seriously dive into it.
+Coding turned out to be something I really enjoyed! It was the first time that I found learning to be genuinely fun. 
+This newfound enthusiasm has sparked a desire within me to explore additional tech tools and delve into learning new programming languages. The world of coding holds endless possibilities, and I can't wait to see where this coding journey takes me!
 
 ### 🔗 Connect with me:
 <a href="https://www.linkedin.com/in/anissa-chadouli/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width=40/></a>
