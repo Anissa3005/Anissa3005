@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Anissa <a href="https://giphy.com/stickers/hand-fripon-rookip-kCMry3iScFtypKZXWn"><img src="https://media0.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif?cid=ecf05e47wscaohd0bpzliigg5ykevie8xov19ubwibuakysa&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=60></img></a>
+I'm a full-stack developer living in Japan.
+
 
 <!--
 **Anissa3005/Anissa3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
