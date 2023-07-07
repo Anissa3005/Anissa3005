@@ -25,7 +25,8 @@ This newfound enthusiasm has sparked a desire within me to explore additional te
 <a href="https://www.prisma.io/"><img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width=60/></a>
 <a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" width=60/></a>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **Anissa3005/Anissa3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
