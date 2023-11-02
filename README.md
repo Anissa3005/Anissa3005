@@ -1,31 +1,53 @@
-### Hi, I'm Anissa <a href="https://giphy.com/stickers/hand-fripon-rookip-kCMry3iScFtypKZXWn"><img src="https://media0.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif?cid=ecf05e47wscaohd0bpzliigg5ykevie8xov19ubwibuakysa&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=30 /></a>
-I'm a full-stack developer living in Japan.
+## Hi, I'm Anissa <a href="https://giphy.com/stickers/hand-fripon-rookip-kCMry3iScFtypKZXWn"><img src="https://media0.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif?cid=ecf05e47wscaohd0bpzliigg5ykevie8xov19ubwibuakysa&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=30 /></a>
+I'm a software engineer living in Japan.
 
-- 🔭 I’m currently working on [nourish](https://github.com/nourish-team) and [Omamori finder](https://github.com/Anissa3005/omamori-app/tree/main)
-- 🌱 I’m currently learning Python with Django.
-- 👯 I’m looking for open source projects I can collaborate on.
-  
-### :sparkles: About me
-In 2022 I fell in love with coding! 
-My interest in coding sparked back in 2020, but with all the crazy pandemic-related changes in my life, it took until September 2022 for me to seriously dive into it.
-Coding turned out to be something I really enjoyed! It was the first time that I found learning to be genuinely fun. 
-This newfound enthusiasm has sparked a desire within me to explore additional tech tools and delve into learning new programming languages. The world of coding holds endless possibilities, and I can't wait to see where this coding journey takes me!
+## Technologies I use: 
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=yellow" /> <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 
-### 🔗 Connect with me:
-<a href="https://www.linkedin.com/in/anissa-chadouli/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width=40/></a>
+## 📬How To Reach Me 
+<a href="https://www.linkedin.com/in/anissa-chadouli/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
-### 🛠️ Programming Languages and Tech Tools
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width=40/></a>
-<a href="https://www.w3schools.com/typescript/typescript_intro.php"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width=40/></a>
-<a href="https://www.python.org/doc/essays/blurb/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width=40/></a>
-<a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width=40/></a>
-<a href="https://nodejs.org/en/about"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width=40/></a>
-<a href="https://nodejs.org/en/about"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width=60/></a>
-<a href="https://www.postgresql.org/about/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width=40/></a>
-<a href="https://www.prisma.io/"><img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width=60/></a>
-<a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" width=60/></a>
+## :file_folder: Projects
+### :sparkles: Nourish
+Nourish is a skincare tracking app designed to empower users in their skincare journey. Our goal is to provide a platform where users can journal and monitor the effectiveness of their skincare routine, helping them identify what products and combinations work best for them.  
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+**Check out Nourish on:** 
+
+:globe_with_meridians: [Google Play](https://play.google.com/store/apps/details?id=com.oddpharmacy.nourishfrontend&hl=en-JP)  
+:octocat: [Repository](https://github.com/Anissa3005/omamori-backend)  
+
+
+**Key Contributions**  
+- Wrote the CRUD functions for the RESTful API using [Node.js](https://nodejs.org/en), [Express](https://expressjs.com/) and [TypeScript](https://www.typescriptlang.org/)
+- Created a relational database schema for [PostgreSQL](https://www.postgresql.org/), [Prisma](https://www.prisma.io/) and container with [Docker](https://www.docker.com/)
+- Implement automated tests using [Jest](https://jestjs.io/)
+- Created "Like" and "Filter" features using [React Native](https://reactnative.dev/)
+
+### :sparkles: Omamori  
+Omamori Finder is an application where users can upload a photo of their omamori (Japanese Talisman), mark the location on a map, and write a description.
+
+**Check out Omamori Finder on:**  
+
+:octocat: [Repository](https://github.com/Anissa3005/omamori-backend) 
+
+**Key Features**  
+- Responsive front-end using [TypeScript](https://www.typescriptlang.org/) and [React](https://react.dev/)
+- Uploading photo using [AWS S3](https://aws.amazon.com/s3/)
+- Implemented OAuth with [Firebase](https://firebase.google.com/)
+- Wrote the CRUD functions for the RESTful API using [Python](https://www.python.org/) and [DjangoRESTframework](https://www.django-rest-framework.org/).
+
+## :earth_asia: Open-Source Projects
+### :sparkles: Find a Doc, Japan
+
+**Check out Nourish on:** 
+
+:globe_with_meridians: [Website](https://www.findadoc.jp/)  
+:octocat: [Repository](https://github.com/ourjapanlife/findadoc-server)
+
+**Key Contributions**  
+
+- Implemented end-to-end testing using [Jest](https://jestjs.io/)
+- Implemented error handling to address edge cases using [TypeScript](https://www.typescriptlang.org/), [GraphQL](https://graphql.org/) and [Apollo Server](https://www.apollographql.com/docs/apollo-server/getting-started/)
+- Helped with schema validation with [GraphQL](https://graphql.org/) and [GraphQL](https://graphql.org/)
 
 
