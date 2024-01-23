@@ -3,8 +3,8 @@ I'm a software engineer living in Japan.
 
 <a href="https://wakatime.com/@9d14fbb3-677a-4813-8366-3a1170924270"><img src="https://wakatime.com/badge/user/9d14fbb3-677a-4813-8366-3a1170924270.svg" alt="Total time coded since Jul 3 2023" /></a>
 
-<!--START_SECTION: -->
-<!--END_SECTION: -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Technologies I use: 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=yellow" /> <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
