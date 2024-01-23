@@ -4,6 +4,22 @@ I'm a software engineer living in Japan.
 <a href="https://wakatime.com/@9d14fbb3-677a-4813-8366-3a1170924270"><img src="https://wakatime.com/badge/user/9d14fbb3-677a-4813-8366-3a1170924270.svg" alt="Total time coded since Jul 3 2023" /></a>
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 03 July 2023 - To: 22 January 2024
+
+Total Time: 315 hrs 15 mins
+
+TypeScript       146 hrs 58 mins >>>>>>>>>>>>-------------   46.19 %
+Python           78 hrs 4 mins   >>>>>>-------------------   24.54 %
+Vue.js           28 hrs 58 mins  >>-----------------------   09.10 %
+CSS              10 hrs 26 mins  >------------------------   03.28 %
+Makefile         5 hrs 57 mins   -------------------------   01.87 %
+Markdown         5 hrs 49 mins   -------------------------   01.83 %
+JavaScript       4 hrs 24 mins   -------------------------   01.39 %
+Bash             3 hrs 5 mins    -------------------------   00.97 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Technologies I use: 
