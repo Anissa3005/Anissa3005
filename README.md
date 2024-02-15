@@ -40,7 +40,7 @@ Other            3 hrs 21 mins   -------------------------   01.00 %
 
 
 :globe_with_meridians: [Google Play](https://play.google.com/store/apps/details?id=com.oddpharmacy.nourishfrontend&hl=en-JP)  
-:octocat: [Repository](https://github.com/Anissa3005/omamori-backend)  
+:octocat: [Repository](https://github.com/nourish-team)  
 
 <details>
   <summary>Contributions:</summary>
