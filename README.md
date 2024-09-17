@@ -36,42 +36,6 @@ Makefile         10 hrs 49 mins  -------------------------   01.77 %
 <!--END_SECTION:waka-->
 
 
-## :file_folder: Projects
-### :sparkles: Nourish
-
-
-
-:globe_with_meridians: [Google Play](https://play.google.com/store/apps/details?id=com.oddpharmacy.nourishfrontend&hl=en-JP)  
-:octocat: [Repository](https://github.com/nourish-team)  
-
-<details>
-  <summary>Contributions:</summary>
-
-  
--  Wrote the CRUD functions for the RESTful API using [Node.js](https://nodejs.org/en), [Express](https://expressjs.com/) and [TypeScript](https://www.typescriptlang.org/)
--  Created a relational database schema for [PostgreSQL](https://www.postgresql.org/), [Prisma](https://www.prisma.io/) and container with [Docker](https://www.docker.com/)
--  Implement automated tests using [Jest](https://jestjs.io/)
--  Created "Like" and "Filter" features using [React Native](https://reactnative.dev/)
-
-  
-</details>
-
-### :sparkles: Omamori  
-
-
-
-:octocat: [Repository](https://github.com/Anissa3005/omamori-backend) 
-
-<details>
-  <summary>Contributions:</summary>
-  
-- Responsive front-end using [TypeScript](https://www.typescriptlang.org/) and [React](https://react.dev/)
-- Uploading photo using [AWS S3](https://aws.amazon.com/s3/)
-- Implemented OAuth with [Firebase](https://firebase.google.com/)
-- Wrote the CRUD functions for the RESTful API using [Python](https://www.python.org/) and [DjangoRESTframework](https://www.django-rest-framework.org/).
-</details>
-
-
 ## :earth_asia: Open-Source Projects
 ### :sparkles: Find a Doc, Japan
 
