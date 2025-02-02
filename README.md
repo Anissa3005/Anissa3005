@@ -17,18 +17,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 July 2023 - To: 23 January 2025
+From: 03 July 2023 - To: 31 January 2025
 
-Total Time: 730 hrs 16 mins
+Total Time: 739 hrs 4 mins
 
-TypeScript       268 hrs 17 mins >>>>>>>>>----------------   36.46 %
-Python           153 hrs 9 mins  >>>>>--------------------   20.82 %
-Vue.js           85 hrs 2 mins   >>>----------------------   11.56 %
-JavaScript       68 hrs 25 mins  >>-----------------------   09.30 %
-Go               27 hrs 13 mins  >------------------------   03.70 %
-CSS              18 hrs 31 mins  >------------------------   02.52 %
-Markdown         15 hrs 47 mins  >------------------------   02.15 %
-Makefile         14 hrs 5 mins   -------------------------   01.92 %
+TypeScript       271 hrs 54 mins >>>>>>>>>----------------   36.52 %
+Python           155 hrs 12 mins >>>>>--------------------   20.84 %
+Vue.js           85 hrs 2 mins   >>>----------------------   11.42 %
+JavaScript       69 hrs 18 mins  >>-----------------------   09.31 %
+Go               27 hrs 13 mins  >------------------------   03.66 %
+CSS              18 hrs 31 mins  >------------------------   02.49 %
+Markdown         16 hrs 2 mins   >------------------------   02.16 %
+Makefile         14 hrs 5 mins   -------------------------   01.89 %
 ```
 
 <!--END_SECTION:waka-->
